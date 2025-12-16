@@ -30,9 +30,3 @@ python src/evolution/diffusion.py
 
 Citation
 
-@software{slgme2024,
-  title = {SL-GME: <followup encodedFollowup="%7B%22snippet%22%3A%22Semantic-Load-Guided%20Model%20Evolution%22%2C%22question%22%3A%22What%20is%20the%20theoretical%20foundation%20behind%20Semantic-Load-Guided%20Model%20Evolution%20(SL-GME)%3F%22%2C%22id%22%3A%223d74fb9f-bddd-4c36-b0fc-31e84abfea35%22%7D" />},
-  author = {Jimenez, Roberto},
-  year = {2024},
-  url = {https://github.com/deskiziarecords/SL-GME}
-}
