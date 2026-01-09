@@ -1,0 +1,14 @@
+{
+    "title": "Synthfuse: Adaptive Complexity Regularization for Spatiotemporal Dynamics",
+    "description": "A JAX-accelerated library for hybrid ML models and SL-GME thermodynamic limit expansions.",
+    "creators": [
+        {
+            "name": "Jimenez, J. Roberto",
+            "affiliation": "Independent Research / ejungle",
+            "orcid": "0009-0007-1334-0978"
+        }
+    ],
+    "keywords": ["JAX", "SL-GME", "Quantum Dynamics", "Machine Learning", "Physics-Informed ML"],
+    "access_right": "open",
+    "license": "MIT"
+}
