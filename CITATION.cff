@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as follows."
+authors:
+  - family-names: "Jimenez"
+    given-names: "Jose Roberto"
+    orcid: "https://orcid.org/0009-0007-1334-0978"
+title: "Synthfuse: Space-Local GME for Thermodynamic Limit Dynamics"
+version: "1.1.0"
+doi: "[10.5281/zenodo.17950039](https://doi.org/10.5281/zenodo.17950039)."
+date-released: 2026-01-09
+url: "https://github.com/deskiziarecords/SL-GME"
+keywords:
+  - JAX
+  - SL-GME
+  - Quantum Dynamics
+  - Model Reduction
+  - Space-Local Memory
