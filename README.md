@@ -1,4 +1,5 @@
 # SL-GME: Semantic-Load-Guided Model Evolution
+[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17950040.svg)](https://doi.org/10.5281/zenodo.17950040)
 
 **Authors**: Roberto Jimenez
 **License**: Apache 2.0
@@ -31,5 +32,4 @@ python src/compression/bootloader.py
 # Run guided evolution
 python src/evolution/diffusion.py
 
-Citation
 
