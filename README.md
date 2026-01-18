@@ -20,8 +20,8 @@ A framework that compresses, deploys, and fine-tunes language models by identify
 ## Quick Start
 
 ```bash
-# Install dependencies
-pip install -r requirements.txt
+
+pip install sl_gme
 
 # Calculate semantic load
 python src/semantic_load/calculator.py
